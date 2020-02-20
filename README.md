@@ -10,5 +10,5 @@ We first Examined our Data using Exploratory Data Analysis and performed Feature
 I tried various algorithms suitable for this type of regression problem. I Included 3 main algorithms (Ridge Regression, RandomForest, GradientBoostRegressor) and buld model on them, out of these the best one is picked as the final model.
 
 ## Things to Improve
-I would like to work more on Feature Engineering part to create better features from existing feature to build better models.
-I will also implement a neural network to get the better model with least mean squared error.
+* I would like to work more on Feature Engineering part to create better features from existing feature to build better models.
+* I will also implement a neural network to get the better model with least mean squared error.
