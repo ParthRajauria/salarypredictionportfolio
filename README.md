@@ -9,6 +9,8 @@ We first Examined our Data using Exploratory Data Analysis and performed Feature
 ## Developed Solution
 I tried various algorithms suitable for this type of regression problem. I Included 3 main algorithms (Ridge Regression, RandomForest, GradientBoostRegressor) and buld model on them, out of these the best one is picked as the final model.
 
-## Things to Improve
+We also developed the best possible MultiLayer Perceptron model on this dataset using Tensorflow and Keras. We reduced the mean squared error to 356.83.
+
+## Future Work
 * I would like to work more on Feature Engineering part to create better features from existing feature to build better models.
-* I will also implement a neural network to get the better model with least mean squared error.
+
